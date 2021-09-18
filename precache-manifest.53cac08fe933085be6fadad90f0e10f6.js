@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "51f44ce5dff66db5501496298d0001cb",
+    "revision": "4e12bb82a18f108a899ca19689ad489b",
     "url": "/index.html"
   },
   {
-    "revision": "360d4db3cdbe14e83f2f",
+    "revision": "35eb528c900b39a536f9",
     "url": "/static/css/3.25727338.chunk.css"
   },
   {
-    "revision": "c68bb3be6ef43f203e94",
+    "revision": "8d06129707c18a361dc7",
     "url": "/static/css/4.a8329f31.chunk.css"
   },
   {
-    "revision": "995af73af3f4ded1e439",
+    "revision": "5acd813d14127fc63a55",
     "url": "/static/css/main.509cd038.chunk.css"
   },
   {
-    "revision": "4db49c094c31c64dfdec",
-    "url": "/static/js/2.8e875ff9.chunk.js"
+    "revision": "ebc7efa87137deb09919",
+    "url": "/static/js/2.b945bcec.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.8e875ff9.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.b945bcec.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "360d4db3cdbe14e83f2f",
-    "url": "/static/js/3.e6defe08.chunk.js"
+    "revision": "35eb528c900b39a536f9",
+    "url": "/static/js/3.4eb978d7.chunk.js"
   },
   {
-    "revision": "c68bb3be6ef43f203e94",
-    "url": "/static/js/4.1b2609e7.chunk.js"
+    "revision": "8d06129707c18a361dc7",
+    "url": "/static/js/4.ab611998.chunk.js"
   },
   {
-    "revision": "995af73af3f4ded1e439",
-    "url": "/static/js/main.ebfc1412.chunk.js"
+    "revision": "5acd813d14127fc63a55",
+    "url": "/static/js/main.5ae3d9a3.chunk.js"
   },
   {
-    "revision": "e0ccaf9b1b53800268a9",
-    "url": "/static/js/runtime-main.44dc22d0.js"
+    "revision": "291adfc7ee479b6547c7",
+    "url": "/static/js/runtime-main.bad74554.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -62,10 +62,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "556235b9c80005593a39e9f25ba48c5c",
     "url": "/static/media/oddoneLogo.556235b9.png"
-  },
-  {
-    "revision": "7853d2fa162673235d529ae62b85a76c",
-    "url": "/static/media/opic.7853d2fa.jpg"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
